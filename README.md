@@ -4,7 +4,7 @@ This is a simple front-end application that retrieves data from [NASA's Astronom
 
 By default, the app retrieves entries for the last month, but the user can select another time range by selecting desired start date with a date picker. The app has a functionality to like and unlike the pictures, all the liked entries are saved locally in the browser and are presented in the Favorites tab. It is also possible to filter the pictures by title or description.
 
-The app is deployed on Netlify platform and available [by the link](https://nasa-spacey.netlify.app/#/).
+The app is deployed on Netlify platform and available [by the link](https://master--spacey-nasa.netlify.app/#/).
 
 ### Main technologies used for the development:
 
